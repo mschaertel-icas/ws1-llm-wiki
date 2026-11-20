@@ -145,7 +145,7 @@ def pruefe_seiten() -> None:
 
 def pruefe_geheimnisse() -> None:
     for datei in ROOT.rglob("*"):
-        if not datei.is_file() or ".git" in datei.parts or datei.name in (".env", "check_wiki.py"):
+        if not datei.is_file() or {".git", ".venv"} & set(datei.parts) or datei.name in (".env", "check_wiki.py"):
             continue
         if datei.suffix.lower() not in {".md", ".txt", ".json", ".yml", ".yaml", ".toml", ".py", ".sh", ".ps1", ".csv", ""}:
             continue
