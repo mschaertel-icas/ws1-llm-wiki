@@ -91,10 +91,6 @@ def wiki_statistik() -> str:
               f"Einträge unter „Auffälligkeiten“: {len(eintraege)}"]
     return "\n".join(zeilen)
 
-@mcp.tool()
-def seiten_ohne_quelle() -> str:
-    """Listet alle Wiki-Seiten auf, die keine Quelle haben."""
-    return "Not implemented yet"
 
 if __name__ == "__main__":
     mcp.run()   # spricht über stdio mit dem Agenten
