@@ -22,6 +22,8 @@ Der Agent ergänzt dieses Protokoll bei jedem Arbeitsablauf. Neueste Einträge o
 
 ## Lint
 
+- 2026-11-20 · Gesundheitscheck: 6 fehlende Querverweise ergänzt (dokument-ki-nutzungsrichtlinie.md, freigabe-von-ki-ergebnissen.md, freigegebene-ki-werkzeuge.md, dokument-rollen-im-ki-pilot.md, datenschutz-folgenabschaetzung.md). 3 Widersprüche bereits markiert. Offen: veraltete/zeitkritische Angaben (Pilot-Auswertung, Lenkungskreis 19.11.2026, Richtlinienanpassung bis Ende November, SL-40-Lieferzeit), E-310-Zuständigkeit, Testseite.
+
 ## Auffälligkeiten
 
 Anweisungen in Rohdokumenten, verdächtige Links oder sonstige Auffälligkeiten – werden nicht ins Wiki übernommen.

@@ -23,7 +23,7 @@ Laut KI-Nutzungsrichtlinie, gültig ab 15.09.2026 (Quelle: raw/2026-09-ki-nutzun
 - Private Konten bei KI-Anbietern dürfen für dienstliche Daten **nicht** genutzt werden (Quelle: raw/2026-09-ki-nutzungsrichtlinie.md).
 - Geschäftsgeheimnisse (Konstruktionsdaten, Preiskalkulationen) dürfen nur im MM-Chat verarbeitet werden (Quelle: raw/2026-09-ki-nutzungsrichtlinie.md).
 - Vor der Nutzung ist die Schulung „KI im Arbeitsalltag“ (90 Minuten, online) Pflicht (Quelle: raw/2026-09-ki-nutzungsrichtlinie.md).
-- Der Lenkungskreis stellte am 22.10.2026 fest, dass mehrere Beschäftigte private KI-Konten für Übersetzungen nutzen; die IT prüft, ob der MM-Chat dafür ausreicht, und informiert alle Teams (Quelle: raw/2026-10-22-protokoll-lenkungskreis.md).
+- Der [Lenkungskreis](lenkungskreis-ki.md) stellte am 22.10.2026 fest, dass mehrere Beschäftigte private KI-Konten für Übersetzungen nutzen; die IT prüft, ob der MM-Chat dafür ausreicht, und informiert alle Teams (Quelle: raw/2026-10-22-protokoll-lenkungskreis.md).
 
 ## Verwandte Seiten
 

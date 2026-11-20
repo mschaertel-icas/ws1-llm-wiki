@@ -18,7 +18,7 @@ Laut KI-Nutzungsrichtlinie (gültig ab 15.09.2026) (Quelle: raw/2026-09-ki-nutzu
 2. KI-Werkzeuge versenden keine E-Mails und ändern keine Daten in Kundensystemen selbstständig.
 3. Kulanzleistungen und Erstattungen ab einer Freigabegrenze gibt die Teamleitung frei – siehe [Kulanz und Erstattungen](kulanz-und-erstattungen.md) (dort ist ein Widerspruch zur Höhe der Grenze vermerkt).
 
-Für den [Pilot Serviceassistent](pilot-serviceassistent.md) bestätigt der Lenkungskreis am 22.10.2026: Der Assistent erstellt ausschließlich Entwürfe, der Versand erfolgt nur durch Menschen (Quelle: raw/2026-10-22-protokoll-lenkungskreis.md).
+Für den [Pilot Serviceassistent](pilot-serviceassistent.md) bestätigt der [Lenkungskreis](lenkungskreis-ki.md) am 22.10.2026: Der Assistent erstellt ausschließlich Entwürfe, der Versand erfolgt nur durch Menschen (Quelle: raw/2026-10-22-protokoll-lenkungskreis.md).
 
 ## Kennzeichnung
 

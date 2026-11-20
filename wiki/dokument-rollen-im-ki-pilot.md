@@ -17,7 +17,7 @@ Verantwortungsmatrix für den [Pilot Serviceassistent](pilot-serviceassistent.md
 |---|---|
 | Erlaubte Antworten festlegen, fachliche Qualität prüfen | Fachbereich Service |
 | Zugriffsrechte, Protokollierung, Updates | IT |
-| Datenschutz-Folgenabschätzung | Datenschutz |
+| [Datenschutz-Folgenabschätzung](datenschutz-folgenabschaetzung.md) | Datenschutz |
 | Freigabe des Piloten und Restrisiken | Geschäftsführung (entscheidet) |
 | Notabschaltung im Vorfall | IT (Fachbereich darf auslösen) |
 
