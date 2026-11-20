@@ -41,3 +41,5 @@ Startseite des Wikis. Der Agent pflegt diese Seite; jede Wiki-Seite ist hier ver
 - [README der Rohdokumente](dokument-readme-rohdokumente.md)
 
 ## Fragen
+
+- [Wie lange dauert es derzeit, ein Spindellager SL-40 zu bekommen?](frage-lieferzeit-spindellager-sl-40.md)

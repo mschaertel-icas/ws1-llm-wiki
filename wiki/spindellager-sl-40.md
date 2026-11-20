@@ -15,6 +15,8 @@ Spindellager, das in der [FX-200](fx-200.md) verbaut ist; Lieferant ist die Kuge
 - Austausch der Spindellager nach Zustand, spätestens nach 20.000 Betriebsstunden; Arbeiten an der Spindel nur durch geschultes Fachpersonal (Quelle: raw/fx200-wartungshandbuch-auszug.md).
 - Lieferzeit seit Oktober 2026 vorübergehend **15 Werktage**, ab Mitte Dezember voraussichtlich wieder normal (Quelle: raw/2026-10-14-mail-lieferant.md) – siehe [Ersatzteile und Lieferzeiten](ersatzteile-und-lieferzeiten.md).
 
+Häufige Frage: [Wie lange dauert es derzeit, ein SL-40 zu bekommen?](frage-lieferzeit-spindellager-sl-40.md)
+
 ## Ansprechpartner
 
 Einkauf; beim Lieferanten: Sabine Weber, Vertrieb Kugellager Weber KG

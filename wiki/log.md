@@ -14,6 +14,12 @@ Der Agent ergänzt dieses Protokoll bei jedem Arbeitsablauf. Neueste Einträge o
 | 2026-11-20 | raw/rollen-im-ki-pilot.md | dokument-rollen-im-ki-pilot.md, datenschutzbeauftragte.md | pilot-serviceassistent.md, meldeweg-bei-ki-auffaelligkeiten.md, leitung-service.md, it-leitung.md, geschaeftsfuehrung.md, index.md |
 | 2026-11-20 | raw/README.md | dokument-readme-rohdokumente.md | test.md (Erstelldatum, Ansprechpartner nach neuen Regeln), index.md |
 
+## Query
+
+| Datum | Frage | Angelegte Seiten | Geänderte Seiten |
+|---|---|---|---|
+| 2026-11-20 | Wie lange dauert es derzeit, ein Spindellager SL-40 zu bekommen? | frage-lieferzeit-spindellager-sl-40.md | index.md, spindellager-sl-40.md |
+
 ## Lint
 
 ## Auffälligkeiten
