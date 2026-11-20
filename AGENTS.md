@@ -68,5 +68,5 @@ Menschen lesen das Wiki, du schreibst es.
 
 ## Eigene Regeln (in Aufgabe 2 ergänzen)
 
-- …
-- …
+- Jede Seite endet mit dem Ansprechpartner
+- Jede Seite soll ein Erstelldatum besitzen
